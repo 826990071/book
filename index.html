@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="_media/vue.css">
+  <!-- custom -->
+  <link rel="stylesheet" href="https://gcore.jsdelivr.net/gh/826990071/media/source/Aplayer.css">
+  <script src="https://gcore.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+  <script src="_media/DPlayer.min.js"></script>
+  <!-- custom end-->
+</head>
+<body>
+  <div id="aplayer"></div>
+  <script>
+    const ap = new APlayer({
+      container: document.getElementById('aplayer'),
+      mini: true,
+      mutex: true,
+      volume: 0.5,
+      theme:  '#fff',
+      audio: [
+        {
+          name: '花开无穷',
+          artist: '霹雳是怪阿姨',
+          url: 'https://gcore.jsdelivr.net/gh/826990071/media/source/song.m4a',
+          cover: 'https://gcore.jsdelivr.net/gh/826990071/media/source/cover.webp',
+      },
+      {
+          name: '库汉村',
+          artist: '洛奇英雄传',
+          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s1/s1_1/03.mp3',
+          cover: 'cover.webp',
+      },
+      {
+          name: '莫勒班',
+          artist: '洛奇英雄传',
+          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s2/01.mp3',
+          cover: 'cover.webp',
+      } ,
+      {
+          name: '莫勒班旅馆',
+          artist: '洛奇英雄传',
+          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s2/02.mp3',
+          cover: 'cover.webp',
+          }
+      ]
+    });
+  </script>
+  <nav>
+    <a href="#/update.md">EN</a>
+    <a href="#/zh-cn/">中文</a>
+  </nav>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '洛奇英雄传新手百科',
+      repo: '',
+      loadSidebar: true ,
+      themeColor: '#ff0019bf',
+      subMaxLevel: 2,
+      logo: 'https://gcore.jsdelivr.net/gh/826990071/media/source/icon.png',
+      executeScript: true,
+      loadNavbar: true,
+      auto2top: true,
+      mergeNavbar: true,
+      timeUpdater: {
+    text: "---\n页面更新时间: {docsify-updated}",
+    formatUpdated: "{YYYY}/{MM}/{DD}",
+  },
+      'flexible-alerts': {
+        style: 'flat'    
+      },
+      search: {
+        maxAge: 86400000,
+        paths: 'auto', 
+        placeholder: '搜索关键字',
+        noData: '无搜索内容',
+        depth:2,
+        hideOtherSidebarContent: true,
+      },
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- custom -->
+  <script src="//gcore.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="https://gcore.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <!-- custom end-->
+
+</body>
+</html>

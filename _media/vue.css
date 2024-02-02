@@ -63,8 +63,10 @@ body {
 	font-size:15px;
 	letter-spacing:0;
 	margin:0;
-	overflow-x:hidden
+	overflow-x:hidden;
+	/* background-image: url(https://img1.tiancitycdn.com/mh/homepage/images/wallpapers/2023/1920/1920-4.jpg); */
 }
+
 img {
 	max-width:100%
 }
@@ -310,7 +312,10 @@ body.sticky .sidebar,body.sticky .sidebar-toggle {
 	margin:0 auto;
 	max-width:80%;
 	padding:30px 15px 40px;
-	position:relative
+	position:relative;
+	/* background-color: rgba(230,238,232,0.72);
+  	backdrop-filter: blur(10px); */
+	/* 毛玻璃 */
 }
 .markdown-section>* {
 	box-sizing:border-box;

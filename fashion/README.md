@@ -15,6 +15,7 @@
 
 
 > [!tip|label:提示]>特别版、闪耀版等时装名称的区别，请移步[时装科普](https://mp.weixin.qq.com/s/TjaMPlXRZUNSqBOX0d4Xqg)
+> [!Attention|label:注意]> 时装套装拆封后获得的技能为本角色随机技能
 
 ## 武器时装
 

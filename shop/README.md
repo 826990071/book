@@ -1,14 +1,15 @@
 # 女神的馈赠&返利 <!-- {docsify-ignore-all} -->
 **怎么氪金划算！？**
-<span title="这才不是心里话呢(￢︿̫̿￢☆)" class="heimu">当然是不氪就是赚！！！</span>
+-   <span title="这才不是心里话呢(￢︿̫̿￢☆)" class="heimu">当然是不氪就是赚！！！</span>
+-   每7天可购买一次8点马赫印记的拉比口哨礼包
 
 
 ## 女神的馈赠
 -  **怎么正确地开[女神的馈赠]**
 
-    ![Alt text](https://cdn.jsdelivr.net/gh/826990071/media/pic/1.png ':size=75%')
-    ![Alt text](https://cdn.jsdelivr.net/gh/826990071/media/pic/2.png ':size=75%')
-    ![Alt text](https://cdn.jsdelivr.net/gh/826990071/media/pic/3.png ':size=75%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/1.png ':size=75%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/2.png ':size=75%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/3.png ':size=75%')
 
 ## 返利
 -   返利是指消费一定的马赫印记（即商城代币）累计积分，根据所达到的累计积分可以领取不同的道具奖励

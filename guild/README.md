@@ -1,11 +1,11 @@
 # 加入公会 <!-- {docsify-ignore-all} -->
 **按Y键打开公会界面，通过筛选标签来选择心仪的公会，附上简短的申请加入说明，等待管理员通过**
 
-![Alt text](image-8.png ':size=50%')
+![Alt text](/image/image-8.png ':size=50%')
 
 -   进入公会房屋后，按H键可以快速移动到各个场景
 
-    ![Alt text](image-9.png ':size=20%')
+    ![Alt text](/image/image-9.png ':size=20%')
 
 ## 公会出征券 
 -   每日早上9点，系统自动发放3张[公会出征券]至背包
@@ -33,7 +33,7 @@
 ## 公会篝火
 在战役开始时使用[公会篝火高级道具]，自身会获得篝火buff
 
-![Alt text](image-6.png)
+![Alt text](/image/image-6.png)
 -   增加100点追加伤害
 -   战役完成后掉落战利品数+1
 -   篝火buff持续时间1小时，完成战役后立即结束
@@ -45,18 +45,18 @@
 **你可以在城镇或战役未准备阶段使用[公会羽毛]复活战役中死亡的玩家**
 -  左键点击角色ID——点击“使用道具”
 
-![Alt text](image-1.png)    ![Alt text](image-4.png ':size=15%')
+![Alt text](/image/image-1.png)    ![Alt text](/image/image-4.png ':size=15%')
 
 -  左键点击角色ID——点击“复制名称”——右键公会羽毛——输入角色ID或Ctrl+V
 
 
-![Alt text](image-3.png)    ![Alt text](image-2.png)
+![Alt text](/image/image-3.png)    ![Alt text](/image/image-2.png)
 
 ## 公会印章商店
 -  完成公会任务可获得[公会印章]
 -  按C键打开角色界面——点击“奖章”——“奖章商店”
 
-![Alt text](image-7.png ':size=50%')
+![Alt text](/image/image-7.png ':size=50%')
 
 > [!tip|label:建议]> 前期推荐兑换[暴击+1精灵石]、[平衡+1精灵石]、[凯波乃的强化石]、[+11强化保护石]
 

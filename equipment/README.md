@@ -23,12 +23,12 @@
 
 -   快捷合成：右键点击[封印之力]或者[继承石]，点击“打开道具组合”。仅武器、防具可使用此方法快速合成
 
-    <!-- ![Alt text](/image/image.png ':size=25%') -->
+    <!-- ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image.png ':size=25%') -->
     ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image.png ':size=25%')
 
 -   NPC处合成：前往库汉村的魔法研究室，点击“制作魔法物品”进行合成
 
-    ![Alt text](/image/image-1.png ':size=50%') 
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-1.png ':size=50%') 
 
 -   获得装备制作配方
 
@@ -46,7 +46,7 @@
 -   [封印之力]和[继承石]的数值在未进行素材合成时，总是固定的，进行装备合成出的装备的数值也总是固定的
 -    **鼠标放置于装备上，按下Alt键即可查看素材合成进度**
 
-    ![Alt text](/image/image-3.png ':size=50%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-3.png ':size=50%')
 
     1：[米莱西安的封印之力：武器]：生效的属性为黄色，括号里的数值为该属性的最低数值和最高数值
 
@@ -64,11 +64,11 @@
 
     -   战役限制最大攻击力和解禁信息可点击战役进行查看：
 
-    ![Alt text](/image/image-2.png ':size=50%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-2.png ':size=50%')
 
     -   当装备（仅限武器、护手、头盔、上衣、下衣）强化至13且单个素材合成进度为100%时，该素材开放解禁合成。装备提供的解禁数值有上限
 
-    ![Alt text](/image/image-4.png ':size=25%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-4.png ':size=25%')
 
     1：[艾伦德封印之力：武器]素材合成进度100%，开放解禁合成且解禁的合成进度为100%
 
@@ -110,13 +110,13 @@
 
     | 强化石    | 名称 | 效果|获取|
     | --------| ----------- |----------- |---------- |
-    | ![Alt text](/image/image-33.png)| 不稳定的强化保护石 |强化成功或失败都会消耗强化保护石|奖章商店、运营活动
-    | ![Alt text](/image/image-36.png)| 强化保护石 |强化成功不会消耗强化保护石；强化+11以上时无法使用| 运营活动、商城
-    | ![Alt text](/image/image-34.png)| 高级强化保护石 |强化成功不会消耗强化保护石；强化+11以上时无法使用；强化失败会获得[高级强化保护石碎片]×1| 运营活动、商城
-    | ![Alt text](/image/image-35.png)| +11强化保护石 |只能在强化+11时使用；强化成功不会消耗道具|运营活动、交易所
-    | ![Alt text](/image/image-32.png)| +11~12防具强化保护石 |只能在强化+11、+12防具时使用；强化成功不会消耗道具；强化失败会获得[+11~12防具强化保护石]×1| 运营活动
-    | ![Alt text](/image/image-38.png)| 高级强化保护石碎片 |4个[高级强化保护石碎片]可合成1个[福格斯的+1装备强化兑换券（赠送）]；右键合成|
-    | ![Alt text](/image/image-39.png)| 福格斯的+1装备强化兑换券（赠送） |装备强化等级+1；最高可强化至+10；强化等级+9以上时，会绑定角色|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-33.png)| 不稳定的强化保护石 |强化成功或失败都会消耗强化保护石|奖章商店、运营活动
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-36.png)| 强化保护石 |强化成功不会消耗强化保护石；强化+11以上时无法使用| 运营活动、商城
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-34.png)| 高级强化保护石 |强化成功不会消耗强化保护石；强化+11以上时无法使用；强化失败会获得[高级强化保护石碎片]×1| 运营活动、商城
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-35.png)| +11强化保护石 |只能在强化+11时使用；强化成功不会消耗道具|运营活动、交易所
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-32.png)| +11~12防具强化保护石 |只能在强化+11、+12防具时使用；强化成功不会消耗道具；强化失败会获得[+11~12防具强化保护石]×1| 运营活动
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-38.png)| 高级强化保护石碎片 |4个[高级强化保护石碎片]可合成1个[福格斯的+1装备强化兑换券（赠送）]；右键合成|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-39.png)| 福格斯的+1装备强化兑换券（赠送） |装备强化等级+1；最高可强化至+10；强化等级+9以上时，会绑定角色|
 
 
 > [!Attention|label:注意]>请勿在没有强化保护石的情况下进行强化，有概率造成装备损坏
@@ -155,11 +155,11 @@
 
     |灵药| 名称    | 拥有魔法力 | 获取方式|
     | --------| --------| ----------- |----------- |
-    ![Alt text](/image/image-49.png)| 魔法灵药| 1~10 |布灵制作
-    ![Alt text](/image/image-50.png)| 祝福的魔力灵药| 10~50 |布灵制作
-    ![Alt text](/image/image-51.png)| 生命的魔力灵药| 3~5 |布灵制作
-    ![Alt text](/image/image-48.png)| 100布灵灵药| 固定100 |运营活动
-    ![Alt text](/image/image-48.png)| 30布灵灵药| 固定30 |运营活动
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-49.png)| 魔法灵药| 1~10 |布灵制作
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-50.png)| 祝福的魔力灵药| 10~50 |布灵制作
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-51.png)| 生命的魔力灵药| 3~5 |布灵制作
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-48.png)| 100布灵灵药| 固定100 |运营活动
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-48.png)| 30布灵灵药| 固定30 |运营活动
 
 
 -   如何注入魔法力
@@ -174,11 +174,11 @@
 
     | 道具    | 名称 | 效果|获取方式
     | --------| ----------- |----------- |---------- |
-    | ![Alt text](/image/image-9.png)| 不稳定的附魔保护石 |附魔成功或失败都会消耗附魔保护石|奖章商店、运营活动
-    | ![Alt text](/image/image-8.png)| 附魔保护石 |附魔成功不会消耗附魔保护石；附魔失败会获得[破碎的附魔保护石]×1|运营活动、商城
-    |![Alt text](/image/image-29.png)| 高级附魔保护石 |附魔成功不会消耗附魔保护石；附魔失败不会消耗附魔，同时会获得该附魔的[附魔碎片]×1|运营活动
-    | ![Alt text](/image/image-29.png)| 特级附魔保护石 |附魔成功率100%|VIP礼包
-    |![Alt text](/image/image-37.png)| 破碎的附魔保护石 |3个[破碎的附魔保护石]可合成1个[附魔保护石];右键合成|| 
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-9.png)| 不稳定的附魔保护石 |附魔成功或失败都会消耗附魔保护石|奖章商店、运营活动
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-8.png)| 附魔保护石 |附魔成功不会消耗附魔保护石；附魔失败会获得[破碎的附魔保护石]×1|运营活动、商城
+    |![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-29.png)| 高级附魔保护石 |附魔成功不会消耗附魔保护石；附魔失败不会消耗附魔，同时会获得该附魔的[附魔碎片]×1|运营活动
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-29.png)| 特级附魔保护石 |附魔成功率100%|VIP礼包
+    |![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-37.png)| 破碎的附魔保护石 |3个[破碎的附魔保护石]可合成1个[附魔保护石];右键合成|| 
 
 
 > [!Attention|label:注意]>附魔失败后会获得该附魔的[附魔碎片]×1，4个同样的[附魔碎片]可合成1个100%成功率的附魔
@@ -191,10 +191,10 @@
 -   精灵石种类
 | 精灵石  | 名称  | 适用装备等级 |精灵石效果| 主要获取方式 |
 | --------| --------| ----------- |----------- |----------- |
-![Alt text](/image/image-31.png)| 初级精灵石|  1至80级 |随机更换属性种类，更换后的属性值随机增或减|奖章商店、敢死队奖励、精灵石制作|
-![Alt text](/image/image-30.png)| 中级精灵石| 81至120级 |随机更换属性种类，更换后的属性值随机增或减|奖章商店、敢死队奖励、精灵石制作|
-![Alt text](/image/image-30.png)| +1暴击精灵石| 10至120级 |固定+1暴击|  奖章商店|
-![Alt text](/image/image-30.png)| +1平衡精灵石| 10至120级 | 固定+1暴击|  奖章商店|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-31.png)| 初级精灵石|  1至80级 |随机更换属性种类，更换后的属性值随机增或减|奖章商店、敢死队奖励、精灵石制作|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-30.png)| 中级精灵石| 81至120级 |随机更换属性种类，更换后的属性值随机增或减|奖章商店、敢死队奖励、精灵石制作|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-30.png)| +1暴击精灵石| 10至120级 |固定+1暴击|  奖章商店|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-30.png)| +1平衡精灵石| 10至120级 | 固定+1暴击|  奖章商店|
 
     - 与附魔一样，装备可以拥有2个精灵石方案。精灵石只生效其中1个属性，即精灵石属性不会叠加
     - 不同部位的装备可获得的精灵石属性也不同
@@ -202,8 +202,8 @@
 -  彼得的保护剂
 | 保护剂  | 名称  | 适用装备等级 | 主要获取方式 |
 | --------| --------| ----------- |----------- |
-![Alt text](/image/image-41.png)| 彼得的保护剂|  精灵石的属性值为负值时，使数值为0 |奖章商店、运营活动|
-![Alt text](/image/image-40.png)| 彼得的高级保护剂| 精灵石的属性值为负值时，使数值为0；可选择是否应用洗出的新属性|奖章商店、运营活动、交易所|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-41.png)| 彼得的保护剂|  精灵石的属性值为负值时，使数值为0 |奖章商店、运营活动|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-40.png)| 彼得的高级保护剂| 精灵石的属性值为负值时，使数值为0；可选择是否应用洗出的新属性|奖章商店、运营活动、交易所|
 
 > [!tip|label:提示]>前期请勿花费过多金币在洗精灵石数值上，洗出暴击/平衡+2即可
 
@@ -229,12 +229,12 @@
 
     | 标杆 | 名称 | 基础属性 | 主要获取方式| 备注|
     | --------| --------| ----------- |----------- |----------- |
-    | ![Alt text](/image/image-23.png)  | 掠夺者的生锈标杆|暴击+1，攻击力+500|交易所购买|
-    | ![Alt text](/image/image-24.png) |掠夺者的标杆| 暴击+3，攻击力+500|交易所购买|
-    | ![Alt text](/image/image-25.png)| 掠夺者的夜光标杆 |  暴击+3，攻击力+500，攻击力限制解除+150|交易所购买|
-    | ![Alt text](/image/image-26.png)| 堕落者的生锈标杆 |  暴击+5，攻击力+1000，攻击力限制解除+300|交易所购买|
-    | ![Alt text](/image/image-27.png) |堕落者的标杆| 暴击+7，攻击力+1000，攻击力限制解除+300|交易所购买|
-    | ![Alt text](/image/image-28.png)| 堕落者的夜光标杆 |  暴击+7，攻击力+1000，攻击力限制解除+450|交易所购买|当前版本毕业装备|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-23.png)  | 掠夺者的生锈标杆|暴击+1，攻击力+500|交易所购买|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-24.png) |掠夺者的标杆| 暴击+3，攻击力+500|交易所购买|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-25.png)| 掠夺者的夜光标杆 |  暴击+3，攻击力+500，攻击力限制解除+150|交易所购买|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-26.png)| 堕落者的生锈标杆 |  暴击+5，攻击力+1000，攻击力限制解除+300|交易所购买|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-27.png) |堕落者的标杆| 暴击+7，攻击力+1000，攻击力限制解除+300|交易所购买|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-28.png)| 堕落者的夜光标杆 |  暴击+7，攻击力+1000，攻击力限制解除+450|交易所购买|当前版本毕业装备|
 
 -   标杆附魔
 
@@ -247,19 +247,19 @@
 ## 项链
 **项链主要从旅馆的“奇怪的旅行者”处出售的[遗忘的神秘礼盒]、[灿烂的旅行者神秘礼盒]中获取**
 
-![Alt text](/image/image-6.png ':size=25%')  
-![Alt text](/image/image-7.png ':size=25%')
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-6.png ':size=25%')  
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-7.png ':size=25%')
 
 
 | 项链 | 名称 | 基础属性 | 备注| 
 |--------|--------| ----------- |----------- |
-|![Alt text](/image/image-10.png)|魔星吊坠| 无|等同于没有项链
-|![Alt text](/image/image-14.png)|幸运项链| 防御+500，幸运+10|30天期限，不限购买|过渡用
-|![Alt text](/image/image-16.png)|小猫项链|力量+3，敏捷+16，智力+3，意志+3|过渡用
-|![Alt text](/image/image-15.png)|蓝色小猫项链|  力量+5，敏捷+5，智力+5，意志+5，生命值+100|过渡用
-|![Alt text](/image/image-13.png)|白色小猫项链| 力量+10，敏捷+10，智力+10，意志+10，防御+50|过渡用
-|![Alt text](/image/image-11.png)|红色小猫项链| 力量+10，敏捷+16，智力+13，意志+10，防御+50，生命值+100|过渡用
-|![Alt text](/image/image-12.png)|闪耀小猫项链|  暴击+2，伤害平衡+2，暴击抵抗+2，防御+51，力量+11，敏捷+18，智力+14，意志+11，生命值+100|当前版本毕业装备
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-10.png)|魔星吊坠| 无|等同于没有项链
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-14.png)|幸运项链| 防御+500，幸运+10|30天期限，不限购买|过渡用
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-16.png)|小猫项链|力量+3，敏捷+16，智力+3，意志+3|过渡用
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-15.png)|蓝色小猫项链|  力量+5，敏捷+5，智力+5，意志+5，生命值+100|过渡用
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-13.png)|白色小猫项链| 力量+10，敏捷+10，智力+10，意志+10，防御+50|过渡用
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-11.png)|红色小猫项链| 力量+10，敏捷+16，智力+13，意志+10，防御+50，生命值+100|过渡用
+|![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-12.png)|闪耀小猫项链|  暴击+2，伤害平衡+2，暴击抵抗+2，防御+51，力量+11，敏捷+18，智力+14，意志+11，生命值+100|当前版本毕业装备
 
 > [!tip|label:提示]>    [遗忘的神秘礼盒]每日早上9点刷新购买次数。[遗忘的神秘礼盒]内含[灿烂的旅行者礼券]1张，50张[灿烂的旅行者礼券]可兑换1个[灿烂的旅行者神秘礼盒]
 
@@ -268,10 +268,10 @@
 ## 胸针
 | 胸针 | 名称 | 基础属性|主要获取方式| 备注| 
 | --------| --------| ----------- |----------- |----------- |
-| ![Alt text](/image/image-47.png) | 元素晶核胸针|  平衡-1，防御+200，力量+34，敏捷+34，智力+34，意志+34|交易所购买|
-| ![Alt text](/image/image-18.png) | 红月胸针|  暴击+1，攻速+2，防御+50，力量+50，敏捷+50，智力+50，意志+50|65个敢死队奖章兑换|
-| ![Alt text](/image/image-17.png)| 纯白羽毛胸针 |暴击+2，攻速+2，防御+100力量+50，敏捷+50，智力+67，意志+50|65个使命奖章兑换、35个使命奖章与红月胸针合成|
-| ![Alt text](/image/image-19.png) | 深灰黄昏胸针| 暴击+4，攻速+3，防御+200力量+50，敏捷+50，智力+67，意志+50|交易所购买|当前版本毕业装备
+| ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-47.png) | 元素晶核胸针|  平衡-1，防御+200，力量+34，敏捷+34，智力+34，意志+34|交易所购买|
+| ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-18.png) | 红月胸针|  暴击+1，攻速+2，防御+50，力量+50，敏捷+50，智力+50，意志+50|65个敢死队奖章兑换|
+| ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-17.png)| 纯白羽毛胸针 |暴击+2，攻速+2，防御+100力量+50，敏捷+50，智力+67，意志+50|65个使命奖章兑换、35个使命奖章与红月胸针合成|
+| ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-19.png) | 深灰黄昏胸针| 暴击+4，攻速+3，防御+200力量+50，敏捷+50，智力+67，意志+50|交易所购买|当前版本毕业装备
 
 > [!tip|label:提示]>系统赠送的30天白色小猫胸针过期后，可考虑购买元素晶核胸针作为过渡胸针用，直至兑换出红月胸针
 
@@ -281,10 +281,10 @@
 
     | 手镯    | 手镯名称     | 可镶嵌宝石数量 |可镶嵌宝石等级 |备注 |
     | --------| --------| ----------- |---------- |---------- |
-    | ![Alt text](/image/b-image-2.png)| 神秘的皮质手镯| 1      |初级、中级、高级|
-    | ![Alt text](/image/b-image-3.png)| 神秘的铜手镯  | 2      | 初级、中级、高级|
-    | ![Alt text](/image/b-image-4.png)| 神秘的纯银手镯   | 3       | 初级、中级、高级|版本次等装备
-    | ![Alt text](/image/b-image-5.png)| 神秘的纯金手镯   | 4       | 初级、中级、高级、最高级|版本毕业装备
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-2.png)| 神秘的皮质手镯| 1      |初级、中级、高级|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-3.png)| 神秘的铜手镯  | 2      | 初级、中级、高级|
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-4.png)| 神秘的纯银手镯   | 3       | 初级、中级、高级|版本次等装备
+    | ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-5.png)| 神秘的纯金手镯   | 4       | 初级、中级、高级、最高级|版本毕业装备
 
 > [!tip|label:提示]>  手镯镶嵌的宝石等级越高，增加的属性值越高
 
@@ -301,7 +301,7 @@
     -   通关[特殊副本]战役有概率获得[高级神秘的手镯装饰盒]。开启后从[神秘的皮质手镯]、[神秘的铜手镯]、[神秘的纯银手镯]、[神秘的纯金手镯]中随机获得1个
 
 
-![Alt text](/image/image-45.png ':size=50%')   ![Alt text](/image/b-image.png ':size=25%')
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-45.png ':size=50%')   ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image.png ':size=25%')
 
 > [!tip|label:提示]>商城不定时出售[神秘箱礼包]，有概率获得[神秘的纯金手镯];除[神秘的纯金手镯]无法购买之外，其余手镯皆可在交易所购买，但只推荐购买[神秘的纯银手镯]
 

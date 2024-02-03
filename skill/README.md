@@ -17,7 +17,7 @@
     | ![Alt text](image-4.png)| 觉醒石：体力消耗减少4 |C|   | ![Alt text](image-2.png)| 觉醒石：冷却时间减少22秒 |B| 
     | ![Alt text](image-4.png)| 觉醒石：体力消耗减少5 |B|
 
-    > [!tip|label:提示]> A级觉醒石只在 [骑士团堡垒战](#/level1-5/?id=baoleizhan ':ignore')产出
+    > [!tip|label:提示]> A级觉醒石只在 [骑士团堡垒战](12Raid/)产出
 
 ##   技能觉醒 <!-- {docsify-ignore} -->
 -   进行技能觉醒

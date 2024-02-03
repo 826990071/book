@@ -21,6 +21,7 @@
     * [游戏交易](deal/)
     * [装备共享&转移](share/)
     * [时空扭曲战役](time-spacedistortion/)
+    * [伤害与属性](attributes/)
 * 休闲
     * [时装&徽章](fashion/)
     * [商城&女神的馈赠](shop/)

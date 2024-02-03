@@ -23,7 +23,8 @@
 
 -   快捷合成：右键点击[封印之力]或者[继承石]，点击“打开道具组合”。仅武器、防具可使用此方法快速合成
 
-    ![Alt text](/image/image.png ':size=25%')
+    <!-- ![Alt text](/image/image.png ':size=25%') -->
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image.png ':size=25%')
 
 -   NPC处合成：前往库汉村的魔法研究室，点击“制作魔法物品”进行合成
 

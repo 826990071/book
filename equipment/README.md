@@ -320,18 +320,18 @@
         -   有概率获得对应战役的宝石盒
         -   有概率获得[最高级手镯用宝石盒]
 
-![Alt text](b-image-1.png ':size=50%')
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-1.png ':size=50%')
 
 
 -   前往库汉村的杂货店使用钥匙兑换宝石盒
 
     | 宝石盒 | 名称     | 掉落战役     |掉落的兑换钥匙 | 兑换钥匙数量 |宝石等级|宝石是否可交易|
     | --------  | ----------- |---------- |---------- |---------- |---------- |---------- |
-    ![Alt text](b-image-7.png)| 梦魇女王的手镯用宝石盒   | 梦魇女王       |诱惑的手镯用宝石盒钥匙碎片     |3      |初级、中级、高级      |可交易|
-    ![Alt text](b-image-8.png)| 嗜血君主的手镯用宝石盒    | 亡者的安息处  | 血色的手镯用宝石盒钥匙碎片     |3      |初级、中级、高级     |可交易|
-    ![Alt text](b-image-9.png)| 泽卡莱恩的手镯用宝石盒  | 逝者的镇魂曲    | 湮灭的手镯用宝石盒钥匙碎片      |3      |初级、中级、高级     |可交易|
-    ![Alt text](b-image-6.png)| 最高级镯用宝石盒      | 梦魇女王、 亡者的安息处 、逝者的镇魂曲       | 最高级镯用宝石盒钥匙碎片      |25     |最高级 |不可交易|
-    ![Alt text](b-image-6.png)| 最高级镯用宝石选择盒  | 无               | 最高级镯用宝石盒钥匙碎片      |60     |最高级     |不可交易|
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-7.png)| 梦魇女王的手镯用宝石盒   | 梦魇女王       |诱惑的手镯用宝石盒钥匙碎片     |3      |初级、中级、高级      |可交易|
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-8.png)| 嗜血君主的手镯用宝石盒    | 亡者的安息处  | 血色的手镯用宝石盒钥匙碎片     |3      |初级、中级、高级     |可交易|
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-9.png)| 泽卡莱恩的手镯用宝石盒  | 逝者的镇魂曲    | 湮灭的手镯用宝石盒钥匙碎片      |3      |初级、中级、高级     |可交易|
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-6.png)| 最高级镯用宝石盒      | 梦魇女王、 亡者的安息处 、逝者的镇魂曲       | 最高级镯用宝石盒钥匙碎片      |25     |最高级 |不可交易|
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image-6.png)| 最高级镯用宝石选择盒  | 无               | 最高级镯用宝石盒钥匙碎片      |60     |最高级     |不可交易|
 
     -   [最高级手镯用宝石盒]开启后，只能获得随机颜色的[最高级宝石]1个
     -   [最高级手镯用宝石选择盒]开启后，可获得指定颜色的[最高级宝石]1个
@@ -344,9 +344,9 @@
 
 | 工艺品| 名称 | 使用效果| 冷却时间|主要获取途径|
 | --------| ----------- |----------- |----------- |----------- |
-![Alt text](image-20.png)| 高级狼人的前爪|使用后30秒内，提高自身30%的移动速度和攻击速度|120|交易所购买|
-![Alt text](image-21.png)| 高级女妖的利牙 |使用后20秒内，每攻击1次恢复最高不超过1000的生命值，总恢复生命值为自身攻击力的13%|180秒|交易所购买|
-![Alt text](image-22.png)| 高级怪猫雕像| 使用后恢复1格SP（250）值 | 70|交易所购买|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-20.png)| 高级狼人的前爪|使用后30秒内，提高自身30%的移动速度和攻击速度|120|交易所购买|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-21.png)| 高级女妖的利牙 |使用后20秒内，每攻击1次恢复最高不超过1000的生命值，总恢复生命值为自身攻击力的13%|180秒|交易所购买|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-22.png)| 高级怪猫雕像| 使用后恢复1格SP（250）值 | 70|交易所购买|
 
 > [!tip|label:建议]>>    根据战役的难度和职业来灵活选择合适的工艺品，有助于应对副本机制和发挥角色特性
 
@@ -355,7 +355,7 @@
 ## 预设装备和属性
 **预设装备可以针对战役属性要求而快速更换自身装备属性**
 
-![Alt text](image-5.png)
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-5.png)
 
     1.  装备分页，点击可以快速更换装备
     2.  设置按钮，设置“佩戴标签”的名称
@@ -371,9 +371,9 @@
 
 | 道具| 名称 | 原装备| 外形装备|
 | --------| ----------- |----------- |----------- |
-![Alt text](image-43.png)|诱惑符咒|未绑定|未绑定
-![Alt text](image-42.png)| 高级诱惑符咒 |未绑定|绑定
-![Alt text](image-44.png)| 武器诱惑符咒| 未绑定|未绑定
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-43.png)|诱惑符咒|未绑定|未绑定
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-42.png)| 高级诱惑符咒 |未绑定|绑定
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-44.png)| 武器诱惑符咒| 未绑定|未绑定
 
 > [!tip|label:提示]>使用[高级武器诱惑符咒]可改变[武器时装]的外观。[高级武器诱惑符咒]、[武器时装]不定时出售
 
@@ -382,7 +382,7 @@
 -   前往罗切斯特城的魔法师公会，与狄安娜对话
 -   点击“组合分解”——“组合道具分解”
 
-    ![Alt text](image-46.png ':size=25%')
+    ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-46.png ':size=25%')
 
     -   分解后得到的解禁材料为账号绑定，可放入共享仓库
     -   分解后得到的附魔为角色绑定
@@ -395,11 +395,11 @@
 ## 装备品质
 **装备品质影响装备的基础属性**
 
-![Alt text](image-52.png ':size=25%')
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-52.png ':size=25%')
 -   使用[品质强化礼券]可以提升装备品质
 -   通过专业技能制作的装备的品质在1星~4星之间浮动；从NPC处制造或自己合成的装备的品质固定为2星
 -   获得[品质强化礼券]：
     -   奖章商店——敢死队奖章兑换
     -   礼券商店——每日任务小票兑换
 
-> [!tip|label:提示]>品质提升的属性很少，前期不用刻意追求
+> [!tip|label:提示]>品质提升的属性较少，前期不用刻意追求

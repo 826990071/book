@@ -5,11 +5,16 @@
 
 
 ## 女神的馈赠
--  **怎么正确地开[女神的馈赠]**
+-  **如何正确地开[女神的馈赠]**
 
     ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/1.png ':size=75%')
     ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/2.png ':size=75%')
     ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/pic/3.png ':size=75%')
+
+## 兑换码兑换
+-   打开商城——点击“礼券盒”——输入兑换码
+
+![alt text](image-1.png ':size=50%')
 
 ## 返利
 -   返利是指消费一定的马赫印记（即商城代币）累计积分，根据所达到的累计积分可以领取不同的道具奖励

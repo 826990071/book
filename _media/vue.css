@@ -597,11 +597,12 @@ section.cover blockquote>p>a:hover {
 	padding:0
 }
 .sidebar ul li.active>a {
-	border-right:2px solid;
-	color:#42b983;
+	/* border-right:2px solid; */
 	color:var(--theme-color,#42b983);
 	font-weight:100;
-    /* font-weight:600 */
+	border-left: 2px solid;
+	padding-left: 10px;
+
 }
 /* .app-sub-sidebar li:before {
 	content:"-";
@@ -820,5 +821,5 @@ span.heimu:hover, span.heimu:active {
   }
 /* custom end */
 
-/* ignre 233 598 600 203 299*/
+/* ignre 233 598 600 203 299 599*/
 

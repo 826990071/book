@@ -29,12 +29,3 @@
     | 小野猫是最强大的时装|广东一区 |2024.2.7|
 
 ## 留言 :id=leaveamessage
-
-<div id="vcomments"></div>
-<script>
-    new Valine({
-        el: '#vcomments',
-        appId: '9eie9Hvp7tQwcNaHA0uXjVkM-MdYXbMMI',
-        appKey: 'hvkOFoL7jojEahkadaWyVYyu',
-    })
-</script>

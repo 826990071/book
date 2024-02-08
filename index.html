@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="_media/vue.css">
   <!-- custom -->
   <link rel="stylesheet" href="https://gcore.jsdelivr.net/gh/826990071/media/source/Aplayer.css">
+  <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+  <script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
   <script src="https://gcore.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
   <script src="_media/DPlayer.min.js"></script>
   <!-- custom end-->
@@ -51,6 +53,7 @@
     });
   </script>
   <div id="app">正在加载中，请稍等……</div>
+
   <script>
     window.$docsify = {
       name: '洛奇英雄传新手百科',
@@ -68,9 +71,9 @@
         style: 'flat'    
       },
       timeUpdater: {
-    text: "---\n页面更新时间: {docsify-updated}",
-    formatUpdated: "{YYYY}/{MM}/{DD}",
-  },
+        text: "---\n页面更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+      },
       search: {
         maxAge: 86400000,
         paths: 'auto', 
@@ -79,6 +82,13 @@
         depth:2,
         hideOtherSidebarContent: true,
       },
+      count: {
+      language: "english|chinese", // default:english|chinese
+      },
+      waline: {
+      serverURL: "https://mhbook-waline.vercel.app",
+      pageview: true,
+    },
       markdown: {
         renderer: {
           code: function(code, lang, base=null) {
@@ -126,9 +136,13 @@
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
-  <script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+
+
+  <script src="https://unpkg.com/docsify-waline@2/docsify-waline.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
   <!-- custom end-->
+
+
 
 </body>
 </html>

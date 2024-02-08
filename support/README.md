@@ -29,14 +29,3 @@
     | 小野猫是最强大的时装|广东一区 |2024.2.7|
 
 ## 留言 :id=leaveamessage
-
-<div id="waline"></div>
-<!-- 此处导入 Waline 评论系统的 JavaScript 文件 -->
-<script src="test.js"></script>
-<style>
-    /* 根据你删除的代码来写相应的 CSS 样式 */
-    #waline {
-        max-width: var(--content-max-width); /* 从原来的 JavaScript 代码中获取 */
-        margin: 0 auto 20px; /* 从原来的 JavaScript 代码中获取 */
-    }
-</style>

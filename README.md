@@ -13,3 +13,4 @@
 ##   玩家社区
 -   [洛奇英雄传吧](https://tieba.baidu.com/f?kw=%C2%E5%C6%E6%D3%A2%D0%DB%B4%AB&fr=ala0&tpl=5&dyTabStr=MCwxLDMsMiw2LDQsNSw3LDgsOQ%3D%3D#)——游戏热点、版本更新，尽在洛奇英雄传吧
 -   [17173-洛奇英雄传专区](https://newgame.17173.com/game-info-10628.html)——版本大更新可领取免费礼包
+

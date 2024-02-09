@@ -53,7 +53,8 @@
 ![Alt text](/image/image-3.png)    ![Alt text](/image/image-2.png)
 
 ## 公会印章商店
--  完成公会任务可获得[公会印章]
+-  完成公会任务可获得GP和[公会印章]
+-  每获得10点GP即可获得1个[公会印章]
 -  按C键打开角色界面——点击“奖章”——“奖章商店”
 
 ![Alt text](/image/image-7.png ':size=50%')

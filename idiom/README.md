@@ -42,6 +42,9 @@
 ## yx
 [英雄模式](#/cruise/?id=hero ':ignore')的简称
 
+## SK
+[时空扭曲战役](time-spacedistortion/)的简称
+
 ## 首解
 首次解除绑定
 

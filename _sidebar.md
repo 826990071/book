@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/)
+* [<i class="fa fa-home" aria-hidden="true" /></i>首页](/)
 * 新手指引
     * [初入游戏](start/)
     * [系统设置](setting/)
@@ -32,5 +32,5 @@
     * [附魔&精灵石](enchantmen/)
     * [头衔](title/)
 * 其它
-    * [支持&鸣谢](support/)
+    * [鸣谢&赞助&留言](support/)
 

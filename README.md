@@ -9,7 +9,7 @@
 -   移动端可点击左下角打开目录栏
 
 ## 建议和反馈
--   <i class="fa fa-commenting-o" aria-hidden="true" /></i>：[留言板](#/support/?id=message ':ignore')
+-   <i class="fa fa-commenting-o" aria-hidden="true" /></i>：[留言板](support/)
 -   <i class="fa fa-qq" aria-hidden="true" /></i>：[与我联系](tencent://message/?uin=826990071&Site=wendns.com&Menu=yes)
 -   <i class="fa fa-envelope-o" aria-hidden="true" /></i>：sugerxin@163.com
 
@@ -19,4 +19,4 @@
 
 
 ##  赞助
--   如果您觉得本文档对您有帮助，或者想对我微小的工作表示一点支持，欢迎给我[赞助](#/support/?id=donate ':ignore')
+-   如果您觉得本文档对您有帮助，或者想对我微小的工作表示一点支持，欢迎给我[赞助](support/)

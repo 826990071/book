@@ -819,6 +819,12 @@ code .token {
 span.heimu:hover, span.heimu:active {
 	color: white;
   }
+
+summary {
+	color: var(--theme-color,#42b983);
+	cursor: pointer;
+	text-decoration: underline
+  }
 /* custom end */
 
 /* ignre 233 598 600 203 299 599*/

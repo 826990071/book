@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [<i class="fa fa-home" aria-hidden="true" /></i>首页](/)
+* [首页](/)
 * 新手指引
     * [初入游戏](start/)
     * [系统设置](setting/)

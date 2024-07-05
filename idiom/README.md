@@ -42,9 +42,16 @@
 ## yx
 [英雄模式](#/cruise/?id=hero ':ignore')的简称
 
-## SK
+## SK、打螺丝、螺丝
 [时空扭曲战役](time-spacedistortion/)的简称
+
+## 宝石本、海姆
+[尼福尔海姆地区战役](Niflheim/)的简称
 
 ## 首解
 首次解除绑定
+
+
+
+
 

@@ -1,27 +1,29 @@
 <!-- docs/_sidebar.md -->
 
 * [首页](/)
+* [基础Q&A](q&a/)
 * 新手指引
-    * [初入游戏](start/)
+    * [升级指南](start/)
     * [系统设置](setting/)
     * [加入公会](guild/)
     * [骑士变身-40级](henshin/)
-    * [骑士团-60级](12Raid/)
-    * [装备系统-80级](equipment/)
-    * [斗争之塔-90级](exptower/)
     * [敢死队-95级](8dungeon/)
-    * [红月的气息-100级](redmoon/)
-    * [游戏指南-105级](handbook/)
-    * [技能觉醒-110级](skill/)
+    * [斗争之塔-100级](exptower/)
     * [快速出征&巡游出征战役-105级](cruise/)
+    * [游戏指南-110级](handbook/)
+    * [技能觉醒-110级](skill/)
+    * [装备系统-110级](equipment/)
+    * [红月的气息-110级](redmoon/)
+    * [骑士团-115级](12Raid/)
 * 进阶
-    * [无尽之塔&艾因拉赫](goldmedal/)
     * [常用语](idiom/)
-    * [远征团](team/)
     * [游戏交易](deal/)
+    * [无尽之塔&艾因拉赫](goldmedal/)
+    * [尼福尔海姆地区战役](Niflheim/)
+    * [远征团](team/)
     * [装备共享&转移](share/)
-    * [时空扭曲战役](time-spacedistortion/)
     * [伤害与属性](attributes/)
+    * [时空扭曲战役](time-spacedistortion/)
 * 休闲
     * [时装&徽章](fashion/)
     * [商城&女神的馈赠](shop/)
@@ -32,5 +34,5 @@
     * [附魔&精灵石](enchantmen/)
     * [头衔](title/)
 * 其它
-    * [鸣谢&赞助&留言](support/)
+    * [鸣谢&赞助](support/)
 

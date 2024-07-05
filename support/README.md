@@ -27,15 +27,4 @@
     | ACE| |2024.3.9|
     | 沉默的短刀|广东一区 |2024.4.20|
 
-## 留言板 :id=message
-
-<div id="vcomments"></div>
-<script>
-    new Valine({
-        el: '#vcomments',
-        appId: 'mWYu6LOtz5KTAVULvxy0AlPG-gzGzoHsz',
-        appKey: 'wyn5LGj3uE0ApRe13DdmxY5w'
-    })
-</script>
-
 

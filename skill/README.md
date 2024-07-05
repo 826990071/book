@@ -17,7 +17,7 @@
     | ![Alt text](image-4.png)| 觉醒石：体力消耗减少4 |C|   | ![Alt text](image-2.png)| 觉醒石：冷却时间减少22秒 |B| 
     | ![Alt text](image-4.png)| 觉醒石：体力消耗减少5 |B|
 
-    > [!tip|label:提示]> A级觉醒石只在 [骑士团堡垒战](12Raid/)产出
+    > [!tip|label:提示]> A级觉醒石只在 [敢死队战役](8dungeon/)产出
 
 ##   技能觉醒 <!-- {docsify-ignore} -->
 -   进行技能觉醒
@@ -38,4 +38,7 @@
     -   点击“积累觉醒点”——点击右侧的觉醒石——点击“使用”
 
     ![Alt text](image-8.png ':size=50%')
+
+
+
 

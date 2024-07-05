@@ -26,7 +26,7 @@ A：官方推荐电脑配置：
 ## Q：可以买号吗？
 A：请到正规平台走正规流程，请注意账号是否能更改身份信息，最好购买“找回包赔”服务。
 
-## Q：有游戏群吗？
+## Q：有洛英游戏群吗？
 A：[洛奇英雄传吧官方QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9h5DHb30AmrQNRI1KWdN8GnTmmsMyIgQ&authKey=gpq%2BIT%2F3bQ6sGK2Tp84oZdA%2F0%2B99sgXex8mZSOuPmoba5sPp7t6PBTistWPfLHS3&noverify=0&group_code=458119154)
 
 

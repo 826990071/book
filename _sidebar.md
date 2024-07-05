@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [首页](/)
-* [升级指南](question/)
+* [升级指南](qa/)
 * 新手指引
     * [升级指南](start/)
     * [系统设置](setting/)

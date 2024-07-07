@@ -245,10 +245,7 @@
 
 
 -   手镯获取
-    -   通关[特殊副本]战役有概率获得[高级神秘的手镯装饰盒]。开启后从[神秘的皮质手镯]、[神秘的铜手镯]、[神秘的纯银手镯]、[神秘的纯金手镯]中随机获得1个
-
-
-![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-45.png ':size=50%')   ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/b-image.png ':size=25%')
+    -   通关[特殊副本](specialraid/)战役有概率获得[高级神秘的手镯装饰盒]。开启后从[神秘的皮质手镯]、[神秘的铜手镯]、[神秘的纯银手镯]、[神秘的纯金手镯]中随机获得1个
 
 > [!tip|label:提示]>商城不定时出售[神秘箱礼包]，有概率获得[神秘的纯金手镯];除[神秘的纯金手镯]无法购买之外，其余手镯皆可在交易所购买，但只推荐购买[神秘的纯银手镯]
 
@@ -266,9 +263,9 @@
 
 | 工艺品| 名称 | 使用效果| 冷却时间|主要获取途径|
 | --------| ----------- |----------- |----------- |----------- |
-![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-20.png)| 高级狼人的前爪|使用后30秒内，提高自身30%的移动速度和攻击速度|120|交易所购买|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-20.png)| 高级狼人的前爪|使用后30秒内，提高自身30%的移动速度和攻击速度|120秒|交易所购买|
 ![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-21.png)| 高级女妖的利牙 |使用后20秒内，每攻击1次恢复最高不超过1000的生命值，总恢复生命值为自身攻击力的13%|180秒|交易所购买|
-![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-22.png)| 高级怪猫雕像| 使用后恢复1格SP（250）值 | 70|交易所购买|
+![Alt text](https://gcore.jsdelivr.net/gh/826990071/media/equipment/image-22.png)| 高级怪猫雕像| 使用后恢复1格SP（250）值 | 70秒|交易所购买|
 
 > [!tip|label:建议]>>    根据战役的难度和职业来灵活选择合适的工艺品，有助于应对副本机制和发挥角色特性
 

@@ -29,5 +29,8 @@ A：请到正规平台走正规流程，请注意账号是否能更改身份信�
 ## Q：有洛英游戏群吗？
 A：[洛奇英雄传吧官方QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9h5DHb30AmrQNRI1KWdN8GnTmmsMyIgQ&authKey=gpq%2BIT%2F3bQ6sGK2Tp84oZdA%2F0%2B99sgXex8mZSOuPmoba5sPp7t6PBTistWPfLHS3&noverify=0&group_code=458119154)
 
+## Q：为什么文档没有写XX内容
+A： 没有写的内容一般游戏前期或游戏中基本不会接触的内容，该文档的目的是建立对游戏系统的认知，而非百科全书。对该部分内容，还请您与其他玩家进行讨论
+
 
 

@@ -13,12 +13,12 @@
     -   暴击抵抗：206
     -   抵抗力：116
     -   伤害平衡抵抗：20
--   主要产出：<a style="color: orange;">未知的碎片</a>、新埃拉材料、勇士奖章
+-   主要产出：<a style="color: orange;">未知的碎片</a>、<a style="color: blue;">新埃拉材料</a>、<a style="color: blue;">勇士奖章</a>
 
 ## 战役入口
 ![Alt text](image-1.png ':size=50%')
 
 ![Alt text](image-2.png ':size=50%')
 
-> [!Attention|label:注意]>  BOSS伤害较高，建议佩戴工艺品[高级女妖的利牙]回复血量；该战役有2%的伤害奖励要求，若在战役结算时达不到2%伤害，只能获得1个战利品掉落
+> [!Attention|label:注意]>  BOSS伤害较高，建议佩戴工艺品<a style="color: blue;">高级女妖的利牙</a>回复血量；该战役有2%的伤害奖励要求，若在战役结算时达不到2%伤害，只能获得1个战利品掉落
 

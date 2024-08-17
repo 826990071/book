@@ -13,8 +13,8 @@
     -   暴击抵抗：185
     -   伤害平衡抵抗：4
 -   特别规则
-    -   只能使用[最高级生命药水]，且限制使用20瓶
-    -   仅可复活1次
+    -   只能使用<a style="color: blue;">最高级生命药水</a>，且限制使用20瓶
+    -   有复活冷却时间
 -   主要产出：<a style="color: orange;">未知的碎片</a>、<a style="color: orange;">斗争之碎片</a>、<a style="color: green;">中级精灵石</a>、A级技能觉醒石、精灵碎片
 
 ![Alt text](image.png ':size=40%')

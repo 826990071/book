@@ -8,8 +8,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="_media/vue.css">
   <!-- custom -->
-  <link rel="stylesheet"  href="https://gcore.jsdelivr.net/gh/826990071/media/source/Aplayer.css">
-  <script src="https://gcore.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
   <script src="_media/DPlayer.min.js"></script>
   <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
@@ -17,47 +15,10 @@
   <!-- custom end-->
 </head>
 <body>
-  <div id="aplayer"></div>
-  <script>
-    const ap = new APlayer({
-      container: document.getElementById('aplayer'),
-      mini: true,
-      mutex: true,
-      volume: 0.5,
-      theme:  '#fff',
-      audio: [
-        {
-          name: '花开无穷',
-          artist: '霹雳是怪阿姨',
-          url: 'https://gcore.jsdelivr.net/gh/826990071/media/source/song.m4a',
-          cover: 'https://gcore.jsdelivr.net/gh/826990071/media/source/cover.webp',
-      },
-      {
-          name: '库汉村',
-          artist: '洛奇英雄传',
-          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s1/s1_1/03.mp3',
-          cover: 'cover.webp',
-      },
-      {
-          name: '莫勒班',
-          artist: '洛奇英雄传',
-          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s2/01.mp3',
-          cover: 'cover.webp',
-      } ,
-      {
-          name: '莫勒班旅馆',
-          artist: '洛奇英雄传',
-          url: 'https://img1.tiancitycdn.com/mh/event/music/mp3/s2/02.mp3',
-          cover: 'cover.webp',
-          }
-      ]
-    });
-  </script>
-
   <div id="app">正在加载中，请稍等</div>
   <script>
     window.$docsify = {
-      name: '洛奇英雄传新手百科',
+      name: '洛奇英雄传新手入门手册',
       loadSidebar: true ,
       themeColor: '#ff0019bf',
       subMaxLevel: 2,

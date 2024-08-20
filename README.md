@@ -1,5 +1,5 @@
 
-#   洛奇英雄传新手入门手册  <!-- {docsify-ignore-all} -->
+#   洛奇英雄传新手入门手册  :id=hello-world
 > [!tip|label:洛奇英雄传120级版本]> 一个为新手答疑解惑的文档
 
 
@@ -16,7 +16,7 @@
 
 -   [洛奇英雄传贴吧官方QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9h5DHb30AmrQNRI1KWdN8GnTmmsMyIgQ&authKey=gpq%2BIT%2F3bQ6sGK2Tp84oZdA%2F0%2B99sgXex8mZSOuPmoba5sPp7t6PBTistWPfLHS3&noverify=0&group_code=458119154)——原来你也在这里
 
--   [洛奇英雄传新浪微博官方账号](hhttps://weibo.com/51mh)——关注、转发参与抽奖
+-   [洛奇英雄传新浪微博官方账号](https://weibo.com/51mh)——关注、转发参与抽奖
 
 ## 建议和反馈
 -   <i class="fa fa-qq" aria-hidden="true" /></i>：[与我联系](tencent://message/?uin=826990071&Site=wendns.com&Menu=yes)
